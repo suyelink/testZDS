@@ -25,6 +25,7 @@ test:
     - translater
   script:
     - pwd
+    - whoami
     - rm -rf test.git
     - git clone --mirror https://code.ihep.ac.cn/liujianli/test.git
     - cd test.git
