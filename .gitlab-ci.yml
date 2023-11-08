@@ -18,7 +18,7 @@ image: python:latest
 # them in a virtualenv and cache it as well.
 
 before_script:
-  - python --version ; pip --version  # For debugging
+  - python --version ; #pip --version  # For debugging
 
 test:
   tags:
