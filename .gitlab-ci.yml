@@ -26,9 +26,9 @@ test:
   script:
     - pwd
     - whoami
-    - rm -rf test.git
-    - git clone --bare git@code.ihep.ac.cn:liujianli/test.git
-    - cd test.git
+#    - rm -rf test.git
+#    - git clone --bare git@code.ihep.ac.cn:liujianli/test.git
+#    - cd test.git
     - touch 1.sh
 #    - git push --mirror  https://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@github.com/suyelink/testZDS.git
 
