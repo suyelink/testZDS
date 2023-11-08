@@ -22,7 +22,7 @@ before_script:
 
 test:
   tags:
-    - translater
+    - transter
   script:
     - pwd
     - rm -rf test.git
