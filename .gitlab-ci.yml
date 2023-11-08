@@ -30,6 +30,6 @@ test:
     - git clone --bare git@code.ihep.ac.cn:liujianli/test.git
     - cd test.git
 #    - git push --mirror https://github.com/suyelink/testZDS.git
-    - git push --mirror  https://suyelink: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@github.com/suyelink/testZDS.git
+    - git push --mirror  https://suyelink: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@github.com/suyelink/testZDS.git
 
 
